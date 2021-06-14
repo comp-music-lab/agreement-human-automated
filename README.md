@@ -1,6 +1,7 @@
 # agreement-human-automated
 
-[![DOI](https://zenodo.org/badge/337558145.svg)](https://zenodo.org/badge/latestdoi/337558145)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4941863.svg)](https://doi.org/10.5281/zenodo.4941863)
+(embargo mode until July 10th)
 
 Code/data for "AGREEMENT AMONG HUMAN AND AUTOMATED TRANSCRIPTIONS OF GLOBAL SONGS"
 
