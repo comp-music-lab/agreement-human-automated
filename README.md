@@ -1,0 +1,2 @@
+# agreement-human-automated
+Code/data for "AGREEMENT AMONG HUMAN AND AUTOMATED TRANSCRIPTIONS OF GLOBAL SONGS"
