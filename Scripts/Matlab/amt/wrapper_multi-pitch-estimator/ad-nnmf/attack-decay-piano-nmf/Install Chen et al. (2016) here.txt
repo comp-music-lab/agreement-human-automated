@@ -1,0 +1,8 @@
+The source code repository used in this study is:
+
+https://code.soundsoftware.ac.uk/projects/decay-model-for-piano-transcription/repository
+
+The original programs assume that the input signal is longer than 30 seconds and tries to extract the first 30 seconds. You may need to add the following lines in the original "convNMFT.m" to handle the signal shorter than 30 seconds such as audio files used in this study.
+
+% modify Tmax to adjust index range
+Tmax = min(size(X,2), Tmax);

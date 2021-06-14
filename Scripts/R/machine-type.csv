@@ -1,0 +1,11 @@
+machine,name,type
+ad-nnmf,AD-NMF,Data-driven
+ss-pnn,SS-nPNN,Data-driven
+oaf,OAF,Data-driven
+madmom,madmom,Data-driven
+crepe,CREPE,Data-driven
+spice,SPICE,Data-driven
+stf,STF,Non data-driven
+melodia,Melodia,Non data-driven
+tony (note),TONY (note),Non data-driven
+tony (frame),TONY (frame),Non data-driven

@@ -1,0 +1,11 @@
+The GitHub repository URL used in the analysis is:
+
+https://github.com/s603122001/Vocal-Melody-Extraction
+
+
+You may need to add the following lines in the original "VocalMelodyExtraction.py" to control the file path of the output.
+
+#output argument
+    parser.add_argument('-oo', '--output_file',
+                        help='path to output prediction file',
+                        type=str, default='out_seg.txt')

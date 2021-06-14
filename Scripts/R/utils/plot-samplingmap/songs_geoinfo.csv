@@ -1,0 +1,41 @@
+lat,long,group,region,song,hraf_region,style,song_id,source
+-16.52,139.41,0,50,NHSDiscography-001,Oceania,Polyphonic,,Natural History of Song
+5.28,-76.83,1,80,NHSDiscography-005,Middle America and the Caribbean,Polyphonic,,Natural History of Song
+14.01,0.75,2,110,NHSDiscography-012,Africa,Solo singing with instruments,1,Natural History of Song
+36.34,-96.8,3,140,NHSDiscography-015,North America,Solo singing with instruments,2,Natural History of Song
+26.54,99.91,4,160,NHSDiscography-017,Asia,Solo singing with instruments,3,Natural History of Song
+70,25,5,185,NHSDiscography-021,Europe,Solo singing without instruments,4,Natural History of Song
+37.5079472,22.37349,5,185,NHSDiscography-029,Europe,Solo singing with instruments,5,Natural History of Song
+42.1072,-78.7911,3,140,NHSDiscography-032,North America,Polyphonic,,Natural History of Song
+20.388,-88.473,1,80,NHSDiscography-033,Middle America and the Caribbean,Solo singing with instruments,6,Natural History of Song
+-14.157,33.8429,2,110,NHSDiscography-039,Africa,Solo singing without instruments,7,Natural History of Song
+4,18,2,110,NHSDiscography-040,Africa,Polyphonic,,Natural History of Song
+42.122779,45.29608,5,185,NHSDiscography-041,Europe,Polyphonic,,Natural History of Song
+42.4,142.26,4,160,NHSDiscography-042,Asia,Polyphonic,,Natural History of Song
+34.7836,47.6003,6,210,NHSDiscography-048,Middle East,Solo singing without instruments,8,Natural History of Song
+19.3647222,-154.9722222,0,50,NHSDiscography-050,Oceania,Solo singing with instruments,9,Natural History of Song
+9.57,-78.82,1,80,NHSDiscography-054,Middle America and the Caribbean,Solo singing without instruments,10,Natural History of Song
+37.2566928,55.1694594,6,210,NHSDiscography-066,Middle East,Polyphonic,,Natural History of Song
+54,-125,3,140,NHSDiscography-075,North America,Solo singing without instruments,11,Natural History of Song
+4.028273,-55.468726,7,240,NHSDiscography-089,South America,Polyphonic,,Natural History of Song
+7.4188889,151.7319444,0,50,NHSDiscography-094,Oceania,Solo singing without instruments,12,Natural History of Song
+-13.3140102,-71.5931657,7,240,NHSDiscography-100,South America,Solo singing without instruments,13,Natural History of Song
+36.99816566,45.50537109,6,210,NHSDiscography-104,Middle East,Solo singing without instruments,14,Natural History of Song
+0.2354,-78.2616,7,240,NHSDiscography-112,South America,Solo singing with instruments,15,Natural History of Song
+21.6833,102.1,4,160,NHSDiscography-117,Asia,Solo singing without instruments,16,Natural History of Song
+66.55,66.61,4,160,T5411R38m,Asia,Solo singing without instruments,17,Global Jukebox
+9.57,-78.82,1,80,T5404R84,Middle America and the Caribbean,Solo singing without instruments,18,Global Jukebox
+7.41,151.78,0,50,T5427R45m,Oceania,Solo singing without instruments,19,Global Jukebox
+-18.87,47.52,2,110,T5442R07,Africa,Solo singing without instruments,20,Global Jukebox
+42.01,20.96,5,185,T5467R34,Europe,Solo singing without instruments,21,Global Jukebox
+38.01,-78.33,3,140,T5559R02,North America,Solo singing with instruments,22,Global Jukebox
+9.89,8.85,2,110,T5459R03,Africa,Solo singing with instruments,23,Global Jukebox
+-33.43,-70.65,7,240,T5487R13,South America,Solo singing with instruments,24,Global Jukebox
+20.92,-104.08,1,80,T5405R09,Middle America and the Caribbean,Solo singing with instruments,25,Global Jukebox
+19.76,96.08,4,160,T5421R17,Asia,Solo singing with instruments,26,Global Jukebox
+31.5,34.46,6,210,T5522R80,Middle East,Solo singing without instruments,27,Global Jukebox
+12.79,45.02,6,210,T5482R03,Middle East,Solo singing with instruments,28,Global Jukebox
+50.08,14.43,5,185,T5528R18,Europe,Solo singing with instruments,29,Global Jukebox
+34.45,-85.9,3,140,T5468R28,North America,Solo singing without instruments,30,Global Jukebox
+-40.07,-71.01,7,240,T5401R27,South America,Solo singing without instruments,31,Global Jukebox
+-9.79,-147.84,0,50,T5431R27,Oceania,Solo singing with instruments,32,Global Jukebox
