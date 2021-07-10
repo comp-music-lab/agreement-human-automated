@@ -1,6 +1,7 @@
 # agreement-human-automated
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4941863.svg)](https://doi.org/10.5281/zenodo.4941863)
+(audio files are available on zenodo)
 
 Code/data for "AGREEMENT AMONG HUMAN AND AUTOMATED TRANSCRIPTIONS OF GLOBAL SONGS"
 
